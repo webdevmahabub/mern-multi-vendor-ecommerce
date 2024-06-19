@@ -1,13 +1,13 @@
-import './App.css';
+import { useState } from "react";
+import Router from "./router/Router";
+import publicRoutes from "./router/routes/publicRoutes";
 
 function App() {
-  return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline text-green-600	">
-              GreenViewSoft
-      </h1>
-    </div>
-  );
+  const [allRoutes, setAllRoutes] = useState([...publicRoutes])
+    console.log(allRoutes)
+
+
+    return <Router allRoutes={allRoutes} /> 
 }
 
 export default App;

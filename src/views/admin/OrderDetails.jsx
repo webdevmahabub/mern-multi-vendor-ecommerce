@@ -75,7 +75,7 @@ const OrderDetails = () => {
                             <h2>Addidas Fly Shoes </h2>
                             <p>
                                 <span>Brand : </span>
-                                <span>Easy</span>
+                                <span>Green</span>
                                 <span className='text-lg'>Quantity : 3 </span>
                             </p>
                         </div> 
@@ -93,7 +93,7 @@ const OrderDetails = () => {
                             <h2>Addidas Fly Shoes</h2>
                             <p>
                                 <span>Brand : </span>
-                                <span>Easy</span>
+                                <span>Green</span>
                                 <span className='text-lg'>Quantity : 3 </span>
                             </p>
                         </div> 
@@ -111,7 +111,7 @@ const OrderDetails = () => {
                             <h2>Addidas Fly Shoes </h2>
                             <p>
                                 <span>Brand : </span>
-                                <span>Easy</span>
+                                <span>Green</span>
                                 <span className='text-lg'>Quantity : 3 </span>
                             </p>
                         </div> 
@@ -139,7 +139,7 @@ const OrderDetails = () => {
                             <h2>Addidas Fly Shoes </h2>
                             <p>
                                 <span>Brand : </span>
-                                <span>Easy</span>
+                                <span>Green</span>
                                 <span className='text-lg'>Quantity : 3 </span>
                             </p>
                         </div> 
@@ -160,7 +160,7 @@ const OrderDetails = () => {
                             <h2>Addidas Fly Shoes </h2>
                             <p>
                                 <span>Brand : </span>
-                                <span>Easy</span>
+                                <span>Green</span>
                                 <span className='text-lg'>Quantity : 3 </span>
                             </p>
                         </div> 

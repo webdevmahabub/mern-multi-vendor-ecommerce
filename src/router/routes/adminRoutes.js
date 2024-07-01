@@ -61,4 +61,5 @@ export const adminRoutes = [
         element : <OrderDetails/> ,
         role : 'admin'
     }
+    
 ]

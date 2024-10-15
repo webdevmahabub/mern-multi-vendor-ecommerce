@@ -1,7 +1,7 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import api from "../../api/api";  
  
- 
+
 export const get_seller_request = createAsyncThunk(
     'seller/get_seller_request',
     async({ parPage,page,searchValue },{rejectWithValue, fulfillWithValue}) => {
